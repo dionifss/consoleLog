@@ -27,18 +27,7 @@ primarily with prospective recruiters.
 
 <a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXMl.png"  align= "center"  title="source: imgur.com" /></a>
 
-- Most people will glance at your `README`, _maybe_ star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
+<!-- - Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
 - For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
 **Recordit**
@@ -47,9 +36,7 @@ primarily with prospective recruiters.
 
 **ttystudio**
 
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
+![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif) -->
 
 ---
 
