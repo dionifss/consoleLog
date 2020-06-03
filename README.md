@@ -2,7 +2,6 @@
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
 
 # Console.log()
 
@@ -19,16 +18,13 @@ primarily with prospective recruiters.
 
 ---
 
-**Badges will go here**
 
 
-***INSERT ANOTHER GRAPHIC HERE***
+<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytl.png" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytm.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/qcDwZjs"><img src="https://i.imgur.com/qcDwZjsl.png" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/qcDwZjs"><img src="https://i.imgur.com/qcDwZjsm.png" title="source: imgur.com" /></a>
-
-<a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXMm.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXMl.png" title="source: imgur.com" /></a>
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
