@@ -18,9 +18,9 @@ primarily with prospective recruiters.
 
 ---
 
+## Screenshots
 
-
-<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytl.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytl.png" style="margin: auto" title="source: imgur.com" /></a>
 
 ----
 
