@@ -24,7 +24,7 @@ primarily with prospective recruiters.
 - license
 - etc.
 
-https://img.shields.io/bundlephobia/min/react
+![npm bundle size](https://img.shields.io/bundlephobia/min/react)
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
