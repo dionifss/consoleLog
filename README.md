@@ -20,15 +20,15 @@ primarily with prospective recruiters.
 
 ## Screenshots
 
-<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytl.png" style="margin: auto" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytl.png" align= "center" title="source: imgur.com" /></a>
 
 ----
 
-<a href="https://imgur.com/qcDwZjs"><img src="https://i.imgur.com/qcDwZjsl.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/qcDwZjs"><img src="https://i.imgur.com/qcDwZjsl.png"  align= "center"  title="source: imgur.com" /></a>
 
 ----
 
-<a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXMl.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXMl.png"  align= "center"  title="source: imgur.com" /></a>
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
