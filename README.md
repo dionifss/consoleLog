@@ -22,7 +22,11 @@ primarily with prospective recruiters.
 
 <a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRytl.png" title="source: imgur.com" /></a>
 
+----
+
 <a href="https://imgur.com/qcDwZjs"><img src="https://i.imgur.com/qcDwZjsl.png" title="source: imgur.com" /></a>
+
+----
 
 <a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXMl.png" title="source: imgur.com" /></a>
 
