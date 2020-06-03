@@ -24,8 +24,10 @@ primarily with prospective recruiters.
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRyt.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hGaxRyt"><img src="https://i.imgur.com/hGaxRyt.png" style="width: 200px" title="source: imgur.com" /></a>
+
 <a href="https://imgur.com/qcDwZjs"><img src="https://i.imgur.com/qcDwZjs.png" title="source: imgur.com" /></a>
+
 <a href="https://imgur.com/XMIANXM"><img src="https://i.imgur.com/XMIANXM.png" title="source: imgur.com" /></a>
 
 - Most people will glance at your `README`, *maybe* star it, and leave
