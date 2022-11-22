@@ -36,7 +36,7 @@
     "passport-local": "^1.0.0",
     "react-monaco-editor": "^0.36.0",
     "react-pdf": "^4.1.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-webcam": "^5.0.1",
     "serve-favicon": "^2.5.0"
   },
